@@ -6,7 +6,7 @@ Ludum Dare topic: Running out of space
 
 Main inspiration: Portal
 
-[Direct download link for game build (Google Drive)].(https://drive.google.com/open?id=1U3LZpkG22V9PSfFnMcqVFo5-cQjP4Xno)
+[Direct download link for game build (Google Drive)](https://drive.google.com/open?id=1U3LZpkG22V9PSfFnMcqVFo5-cQjP4Xno).
 
 [Itch.io page](https://spilat12.itch.io/compactor-bot-escape).
 
